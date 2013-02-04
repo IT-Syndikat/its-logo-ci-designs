@@ -1,0 +1,1 @@
+Als font OCR A verwenden. Bei Ubuntu direkt aus der Paketverwaltung installierbar.
